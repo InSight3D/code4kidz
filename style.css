@@ -6,7 +6,7 @@
 
 html, body {
     max-width: 100%;
-    overflow-x: hidden;
+    overflow-x: hidden !important;
     scroll-behavior:smooth;
     background: #3e4c61;
 }
