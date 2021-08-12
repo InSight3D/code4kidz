@@ -11,8 +11,8 @@
 body, html {
     max-width: 100%;
     background: #3e4c61;
-    overflow-x: hidden !important;
-    scroll-behavior:smooth;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
 }
 
 
@@ -119,9 +119,6 @@ nav .fa{
 
 @media(max-width: 700px) {
     
-    nav {
-        display: none;
-    }
     .text-box h1 {
         font-size: 20px;
     }
