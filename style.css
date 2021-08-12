@@ -26,6 +26,7 @@ body, html {
 }
 
 nav {
+    overflow-x: hidden;
     display: flex;
     padding: 2% 6%;
     justify-content:  space-between;
