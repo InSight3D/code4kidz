@@ -113,7 +113,7 @@ nav .fa{
     }
 
     .nav-links ul li {
-        display: block;
+        display: none;
     }
 
     .nav-links {
